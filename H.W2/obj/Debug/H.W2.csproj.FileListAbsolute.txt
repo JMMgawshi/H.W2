@@ -1,0 +1,9 @@
+C:\Users\J.M.Almgawshi\Documents\Visual Studio 2015\Projects\H.W2\H.W2\bin\Debug\H.W2.exe.config
+C:\Users\J.M.Almgawshi\Documents\Visual Studio 2015\Projects\H.W2\H.W2\bin\Debug\H.W2.exe
+C:\Users\J.M.Almgawshi\Documents\Visual Studio 2015\Projects\H.W2\H.W2\bin\Debug\H.W2.pdb
+C:\Users\J.M.Almgawshi\Documents\Visual Studio 2015\Projects\H.W2\H.W2\obj\Debug\H.W2.csprojResolveAssemblyReference.cache
+C:\Users\J.M.Almgawshi\Documents\Visual Studio 2015\Projects\H.W2\H.W2\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\J.M.Almgawshi\Documents\Visual Studio 2015\Projects\H.W2\H.W2\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\J.M.Almgawshi\Documents\Visual Studio 2015\Projects\H.W2\H.W2\obj\Debug\H.W2.csproj.GenerateResource.Cache
+C:\Users\J.M.Almgawshi\Documents\Visual Studio 2015\Projects\H.W2\H.W2\obj\Debug\H.W2.exe
+C:\Users\J.M.Almgawshi\Documents\Visual Studio 2015\Projects\H.W2\H.W2\obj\Debug\H.W2.pdb
